@@ -1,3 +1,3 @@
-# Docker-Files
+# Docker projects
 
 For use with Docker projects.
