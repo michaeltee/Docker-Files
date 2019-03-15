@@ -1,4 +1,4 @@
-# restGET v. 1.0.
+# restGET v. 1.0
 # Michael Taylor, March 2019.
 
 import requests
