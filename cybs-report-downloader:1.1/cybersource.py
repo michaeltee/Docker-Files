@@ -1,6 +1,6 @@
 # Dockerized CYBS REST API auth library.  Uses HTTP Signature method.
 # Michael Taylor, March 2019.
-# V 1.0
+# V 1.1
 
 import requests
 from datetime import datetime
