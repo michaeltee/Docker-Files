@@ -1,3 +1,6 @@
+# restGET v. 1.1
+# Michael Taylor, March 2019.
+
 import requests
 import cybersource
 import json 
